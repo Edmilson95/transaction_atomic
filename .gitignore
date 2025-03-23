@@ -1,0 +1,9 @@
+venv/
+
+__pycache__/
+atomic_example/__pycache__/
+atomic_project/__pycache__/
+
+db.sqlite3
+
+.vscode
